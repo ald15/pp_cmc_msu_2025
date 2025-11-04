@@ -82,4 +82,4 @@ make
 
 ## Пример работы программы
 
-![](imgs\test.png)
+![](imgs/test.png)
